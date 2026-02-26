@@ -13,7 +13,9 @@ python music.py
 # Phone (termux)
 
 pkg update
+
 pkg install mpv
+
 pip install yt-dlp
 
 
