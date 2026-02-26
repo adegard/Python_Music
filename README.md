@@ -1,5 +1,5 @@
 # Python_Music
-minimalist YT music player in terminal. Search a song and play it, directly. No trasking or API.
+minimalist YT music player in terminal. Search a song and play it, directly. No API needed.
 
 ## installation
 
